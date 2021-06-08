@@ -16,8 +16,12 @@
       <component id="fe25f" class="javax.swing.JTextField" binding="textField1" default-binding="true">
         <constraints/>
         <properties>
+          <background color="-2555905"/>
           <columns value="25"/>
         </properties>
+        <clientProperties>
+          <html.disable class="java.lang.Boolean" value="true"/>
+        </clientProperties>
       </component>
       <component id="5f0b9" class="javax.swing.JButton" binding="button1" default-binding="true">
         <constraints/>
